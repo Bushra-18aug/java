@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class length{
-public static void main(String [] aaa){
+public static void main(String [] args){
 
 Scanner a = new Scanner (System.in);
 
@@ -23,12 +23,4 @@ System.out.println(h);
 String y= b.substring(2);
 System.out.println(g);
 
-
-
-
-
-
-
-
-}
-}
+}}
